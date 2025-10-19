@@ -16,29 +16,6 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 
 ---
 
-## Acknowledgment
-
-This project was developed as part of our **Graduation Project** at  
-**The University of Jordan – King Abdullah II School of Information Technology**  
-**Department of Artificial Intelligence**
-
-Supervised by: **Dr. Omar Alkadi**  
-Domain Expert: **Miss. Salma Abdeljaber**
-
-We sincerely thank our supervisor and domain expert for their continuous support, valuable guidance, and encouragement throughout the development of this project.
-
----
-
-## Team Members
-
-| Name | Role |
-|------|------|
-| **Beesan Al-Attal** | Team Member |
-| **Layan Balbisi** | Team Member |
-| **Leen Samman** | Team Member |
-| **Zaina Abu-Naser** | Team Member |
-
----
 
 ## Overview
 
@@ -71,10 +48,34 @@ We sincerely thank our supervisor and domain expert for their continuous support
 
 ## Hugging Face Model Links
 
-| Token | Description | Link |
+| Token | Description | Embedding names in hugging face |
 |--------|--------------|------|
-| `<stylii>` | Pixar-style embedding | [Add Hugging Face Link]() |
-| `<wucs>` | Boy character embedding | [Add Hugging Face Link]() |
-| `<lbcs>` | Girl character embedding | [Add Hugging Face Link]() |
+| `<stylii>` | Pixar-style embedding | `LeenSMN/deployingEmbeddings`|
+| `<wucs>` | Boy character embedding | `LeenSMN/deployingWindUp_200Steps` |
+| `<lbcs>` | Girl character embedding | `LeenSMN/deployingLuca_400Steps` |
 
+
+## Acknowledgment
+
+This project was developed as part of our **Graduation Project** at  
+**The University of Jordan – King Abdullah II School of Information Technology**  
+**Department of Artificial Intelligence**
+
+Supervised by: **Dr. Omar Alkadi**  
+Domain Expert: **Miss. Salma Abdeljaber**
+
+We sincerely thank our supervisor and domain expert for their continuous support, valuable guidance, and encouragement throughout the development of this project.
+
+---
+
+## Team Members
+
+| Name | Role |
+|------|------|
+| **Beesan Al-Attal** | Team Member |
+| **Layan Balbisi** | Team Member |
+| **Leen Samman** | Team Member |
+| **Zaina Abu-Naser** | Team Member |
+
+---
 
