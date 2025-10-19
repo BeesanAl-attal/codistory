@@ -9,6 +9,13 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 ![Workflow Diagram](images/Workflow.png)
 
 
+<iframe width="560" height="315" 
+src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs)" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 **Demo Video:** ([https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs))  
 ---
 
