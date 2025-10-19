@@ -1,6 +1,6 @@
 # CoDiStory: AI-Powered Bilingual Storytelling Platform for Children
 
-> **Demo Video:** ([https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs))  
+
 CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English) stories for children to strengthen their lexical abilities and support early education.
 ---
 
@@ -8,6 +8,8 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 
 ![Workflow Diagram](images/Workflow.png)
 
+
+**Demo Video:** ([https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs))  
 ---
 
 ## Example of a Generated Story
