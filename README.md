@@ -6,7 +6,7 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 
 ## Project Workflow
 
-![Workflow Diagram]([path/to/workflow-image.png](https://drive.google.com/file/d/1VMxf_EvHCxMPhuxd2yhNGh6mIrMid6V0/view?usp=sharing))
+![Workflow Diagram](images/Workflow.png)
 
 ---
 
