@@ -72,10 +72,10 @@ We sincerely thank our supervisor and domain expert for their continuous support
 
 | Name | Role |
 |------|------|
-| **Beesan Al-Attal** | Team Member |
-| **Layan Balbisi** | Team Member |
-| **Leen Samman** | Team Member |
-| **Zaina Abu-Naser** | Team Member |
+| **Beesan Al-Attal** | character consistency through scenes |
+| **Layan Balbisi** | fine tuning LLM and generating story text|
+| **Leen Samman** | style consistency |
+| **Zaina Abu-Naser** | Frontend and Deployment |
 
 ---
 
