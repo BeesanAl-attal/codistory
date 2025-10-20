@@ -1,26 +1,11 @@
 # CoDiStory: AI-Powered Bilingual Storytelling Platform for Children
 
+[![Watch the Demo Video](https://img.youtube.com/vi/a2YGLkdhBWs/maxresdefault.jpg)](https://youtu.be/a2YGLkdhBWs)
 
-CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English) stories for children to strengthen their lexical abilities and support early education.
+##CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English) stories for children to strengthen their lexical abilities and support early education.
 ---
 
 ## Project Workflow
-
-![Workflow Diagram](images/Workflow.png)
-
-
-**Demo Video:** ([https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs))  
----
-
-## Example of a Generated Story
-
-![Generated Story Example](path/to/generated-story-image.png)
-
----
-
-
-## Overview
-
 **CoDiStory** is an end-to-end AI pipeline that:
 - Generates short stories from a single keyword using **LLaMA 2 + LoRA** fine-tuning.  
 - Produces Pixar-style illustrations via **Stable Diffusion (DreamBooth + Textual Inversion)**.  
@@ -28,7 +13,11 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 - Maintains character and style consistency across scenes.  
 - Supports Arabic and English story output.
 
+![Workflow Diagram](images/Workflow.png)
+
+
 ---
+
 
 ## System Architecture
 
@@ -45,6 +34,13 @@ CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English
 4. **Frontend / Deployment**  
    - Multi-page **Flask or FastAPI Web App** with Firebase integration.  
    - Deployed in **Google Colab** or **local Jupyter environment**.  
+
+---
+
+## Example of a Generated Story
+
+![Generated Story Example](path/to/generated-story-image.png)
+
 
 ---
 
@@ -80,7 +76,6 @@ We sincerely thank our supervisor and domain expert for their continuous support
 | **Zaina Abu-Naser** | Frontend and Deployment |
 
 ---
-# CoDiStory: AI-Powered Bilingual Storytelling Platform for Children
 
-[![Watch the Demo Video](https://img.youtube.com/vi/a2YGLkdhBWs/maxresdefault.jpg)](https://youtu.be/a2YGLkdhBWs)
+
 
