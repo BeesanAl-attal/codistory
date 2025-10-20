@@ -2,7 +2,7 @@
 
 [![Watch the Demo Video](https://img.youtube.com/vi/a2YGLkdhBWs/maxresdefault.jpg)](https://youtu.be/a2YGLkdhBWs)
 
-##CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English) stories for children to strengthen their lexical abilities and support early education.
+## CoDiStory is an AI-powered tool that generates short bilingual (Arabic & English) stories for children to strengthen their lexical abilities and support early education.
 ---
 
 ## Project Workflow
