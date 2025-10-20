@@ -80,9 +80,7 @@ We sincerely thank our supervisor and domain expert for their continuous support
 | **Zaina Abu-Naser** | Frontend and Deployment |
 
 ---
-<iframe width="560" height="315" 
-src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://your-demo-video-link.com](https://youtu.be/a2YGLkdhBWs)" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+# CoDiStory: AI-Powered Bilingual Storytelling Platform for Children
+
+[![Watch the Demo Video](https://img.youtube.com/vi/a2YGLkdhBWs/maxresdefault.jpg)](https://youtu.be/a2YGLkdhBWs)
+
