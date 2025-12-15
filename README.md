@@ -39,7 +39,7 @@
 
 ## Example of a Generated Story
 
-![Generated Story Example](path/to/generated-story-image.png)
+![Generated Story Example](images/generated-story-image.png)
 
 
 ---
